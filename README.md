@@ -9,5 +9,9 @@ Contiene los archivos python donde para cada ataque (spoofing y floodin), tiene 
 
 Contiene código para ejecutar cada uno de los escenarios y un contador para realizar un número predeterminado de pruebas.
 
+#Commands
+
+Este archivo ejecuta el inicio de vlc en la red SDN
+
 
  
